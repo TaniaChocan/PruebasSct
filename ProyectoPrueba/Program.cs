@@ -9,5 +9,8 @@ static int Sumar(int a, int b)
 {
     return a + b;
 }
-
+static int Restar (int a, int b)
+{
+    return a-b;
+}
 
